@@ -2,7 +2,7 @@
 
 This repo just contains Mark Smith's @smittyhalibut notes for completing the Soldersmoke Challenge, as issued by Bill Meara to the Ham Radio Workbench crew in [episode 223](https://www.hamradioworkbench.com/podcast/hrwb-223-a-conversation-with-bill-meara-n2cqr-from-the-soldersmoke-podcast).
 
-The radio is called "TJ DC RX" or "TC DCR".  TJ are the initials of the designer (confirm?), and DC RX/DCR is Direct Conversion Receiver.
+This Direct Conversion Receiver was originally designed to build at Thomas Jefferson High School.  Hence the name: TJ DCR, or TJ DC RX.
 
 This is not intended to completely document the project, this is just a series of links to the proper documentation.  You might have to dig for the info you're looking for.  If you can't find it linked to from somewhere here, let me know.
 
